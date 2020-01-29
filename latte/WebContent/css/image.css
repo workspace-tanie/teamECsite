@@ -1,0 +1,31 @@
+.getImg{
+	width:60%;
+	hight:60%;
+}
+
+.left{
+	float: left;
+	margin-top: 3%;
+}
+.left img{
+	width: 40%;
+}
+.right{
+	float: left;
+}
+.box{
+	clear:left;
+	text-align:center;
+}
+.box h2{
+	text-align:center;
+	color: gray;
+	font-size : 20px;
+}
+.product-details-recomｍend-box{
+
+	display:flex;
+}
+.box .recommend-box img{
+	width: 20%;
+}

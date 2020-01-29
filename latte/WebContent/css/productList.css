@@ -1,0 +1,12 @@
+.searchItem{
+	margin: 0 auto;
+}
+
+.searchItem td {
+	width: 350px;
+	padding: 30px;
+	font-size: 0.8em;
+	text-align: center;
+	vertical-align:center;
+	 border: none;
+}
